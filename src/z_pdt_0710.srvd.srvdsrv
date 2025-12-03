@@ -1,0 +1,4 @@
+@EndUserText.label: 'Servicio Libro PDT 0710'
+define service Z_PDT_0710 {
+  expose Z_PDT_0710;
+}
